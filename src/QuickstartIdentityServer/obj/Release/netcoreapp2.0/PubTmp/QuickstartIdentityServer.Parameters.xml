@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="identityserverphucthinh" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\TEST\\Identity\\IdentityServer4\.Samples-release\\Quickstarts\\7_JavaScriptClient\\src\\QuickstartIdentityServer\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

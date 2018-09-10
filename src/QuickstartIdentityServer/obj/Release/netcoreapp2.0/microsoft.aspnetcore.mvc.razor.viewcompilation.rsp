@@ -1,0 +1,17 @@
+D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=QuickstartIdentityServer
+--content-root=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Account\LoggedOut.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Account\Login.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Account\Logout.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Consent\Index.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Consent\_ScopeListItem.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Diagnostics\Index.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Grants\Index.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Home\Index.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Shared\Error.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Shared\_Layout.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\Shared\_ValidationSummary.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\_ViewImports.cshtml
+--file=D:\TEST\Identity\IdentityServer4.Samples-release\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\Views\_ViewStart.cshtml
